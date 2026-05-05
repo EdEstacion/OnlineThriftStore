@@ -1,0 +1,19 @@
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\bin\Debug\Project2 Online Thrifiting Store.exe.config
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\bin\Debug\Project2 Online Thrifiting Store.exe
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\bin\Debug\Project2 Online Thrifiting Store.pdb
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.csproj.AssemblyReference.cache
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2_Online_Thrifiting_Store.Form1.resources
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2_Online_Thrifiting_Store.Form2.resources
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2_Online_Thrifiting_Store.Properties.Resources.resources
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.csproj.GenerateResource.cache
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.csproj.CoreCompileInputs.cache
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.exe
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.pdb
+C:\Users\nater\source\repos\Project2 Online Thrifiting Store\obj\Debug\Project2_Online_Thrifiting_Store.Form3.resources
+C:\Users\Edward\Downloads\Signal Sync\Project2 Online Thrifiting Store Update 3\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.csproj.AssemblyReference.cache
+C:\Users\Edward\Downloads\Signal Sync\Project2 Online Thrifiting Store Update 3\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edward\Downloads\Signal Sync\Project2 Online Thrifiting Store Update 3\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.exe
+C:\Users\Edward\Downloads\Signal Sync\Project2 Online Thrifiting Store Update 3\Project2 Online Thrifiting Store\obj\Debug\Project2 Online Thrifiting Store.pdb
+C:\Users\Edward\Downloads\Signal Sync\OnlineThriftStore\OnlineThriftStore\obj\Debug\Project2 Online Thrifiting Store.csproj.AssemblyReference.cache
+C:\Users\Edward\Downloads\Signal Sync\OnlineThriftStore\OnlineThriftStore\obj\Debug\Project2 Online Thrifiting Store.exe
+C:\Users\Edward\Downloads\Signal Sync\OnlineThriftStore\OnlineThriftStore\obj\Debug\Project2 Online Thrifiting Store.pdb
